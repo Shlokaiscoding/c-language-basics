@@ -1,6 +1,4 @@
-So its my D1 of learning coading and as we all know I have decided to start with C language so here's the code 
-  lowkey i know its not much just baby steps but i wanna record where I started
-  
+
   #include<stdio.h>
 
 int main (){
