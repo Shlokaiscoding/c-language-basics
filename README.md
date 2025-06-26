@@ -1,5 +1,5 @@
 # c-language-basics
-“My beginner journey in C, starting with CodeWithHarry’s playlist!”
+“My beginner journey in C”
 # C Language Basics 👩‍💻
 
 Hey there! I’m Shloka, a beginner learning C from scratch using Apna College's playlist 💻  
